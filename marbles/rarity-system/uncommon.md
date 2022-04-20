@@ -1,6 +1,6 @@
 # 🟩 Uncommon
 
-With a double amount of starting skill points, Uncommon marbles are quiet strong by themselves. They provide no stat boost for their team just like the Common Marbles, but with a big quantity and strong base power level, they will play a big role in the MarbleVerse.
+With twice the initial skill points of a common Marbles, Uncommon Marbles are quiet strong by themselves. They provide no stat boost for their team just like the Common Marbles, but with a big quantity and a strong base power level, they will play a big role in the MarbleVerse.
 
 
 
