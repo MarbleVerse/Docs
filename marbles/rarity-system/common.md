@@ -12,10 +12,11 @@ As each marble gets equal amount of Skill Level per upgrade, Commons can increas
 * Base: White
 
 | Level | Perk 1 | Perk 2 |
-| ----- | ------ | ------ |
+| ----- | :----: | :----: |
 | 1     |        |        |
 | 5     |        |        |
 | 10    |        |        |
 | 15    |        |        |
+| 20    |        |        |
 
 {% embed url="https://cdn.marbleverse.io/MarbleVideos/common.webm?v2=" %}
