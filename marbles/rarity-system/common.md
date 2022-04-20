@@ -11,4 +11,4 @@ As each marble gets equal amount of Skill Level per upgrade, Commons can increas
 * Skill Point per Level: 2
 * Base: White
 
-{% embed url="https://cdn.marbleverse.io/MarbleVideos/11.webm" %}
+{% embed url="https://cdn.marbleverse.io/MarbleVideos/common.webm?v2=" %}
