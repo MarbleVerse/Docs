@@ -8,7 +8,7 @@ There are two ways to mint Marble. Before that make sure that you have a Metamas
 
 1. Visit the MarbleVerse website.
 2. Connect your wallet
-3. Select the amount you wat to mint
+3. Select the amount you want to mint
 4. Approve transaction
 
 After the minting process is complete, it may take couple of hours for your marble to reveal.
