@@ -1,5 +1,7 @@
 # ⬆ Skill Points
 
+![](../../.gitbook/assets/energylvl.png)
+
 Each marble will have their skill points that can be distributed over their stats for customized gameplay experience. With an ability to change the stats of their Marbles, players will be able to get play more active or idle as their liking.&#x20;
 
 Marbles with different rarities will have different initial skill points at level 1. Each Marble level increase will give 2 more skill points to the Marble.&#x20;
