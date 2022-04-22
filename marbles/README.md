@@ -4,6 +4,8 @@ description: NFTs
 
 # 🔮 Marbles
 
+![](../.gitbook/assets/iconxbanner.png)
+
 There will be 20.000 Marble NFTs in the initial sale. All initial minting will be done with Native Token. After 20.000 Marbles, new marbles will only be available from special in-game races and events.
 
 &#x20;We want marbles to be easily accessible & affordable to promote Rollium spending, but valuable at the same time, so we will increase the minting price for each 2000 new Marble.
