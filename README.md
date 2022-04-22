@@ -1,5 +1,6 @@
 ---
 description: A Play-2-Earn game developed on Cronos blockchain.
+cover: .gitbook/assets/gitbook_visual3 (1).png
 coverY: 0
 ---
 
