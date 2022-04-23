@@ -1,10 +1,10 @@
 # ⭐ Level System
 
-Each Marble starts at level 0 and receive some skill point depending on their rarity. Marbles can receive additional skill points each time they level up. \
-\
-Upgrading Marbles will not change its attributes. For example, high level Common Marble will be able to get more skill points than low level Rare Marble, but its rarity will stay as Common.\
-\
-Additionally, all upgrades are stored in blockchain and they get transferred after trades.\
+Each Marble starts at level 1 and receives initial skill points, depending on their rarity. Marbles receive additional skill points each time they level up.&#x20;
+
+Upgrading Marbles will not change their attributes. For example, high level Common Marbles will be able to get more skill points than low level Rare Marbles, but their rarity will stay as Common.&#x20;
+
+Additionally, all upgrades are stored in blockchain and they get transferred over with trades.\
 
 
 | Level                                  | Upgrade Cost (RLM) | Total Cost (RLM) | Skill Points |
