@@ -19,3 +19,5 @@ Players holding Marble NFTs will be able to:&#x20;
 &#x20;\- Trade their NFTs or buy more NFTs to have more racers going for rewards. Have chances to enter raffles, auctions or enter special races with special NFT rewards.
 
 {% embed url="https://www.youtube.com/watch?v=Mbo8vUyGyes" %}
+Launch Announcement Video
+{% endembed %}
