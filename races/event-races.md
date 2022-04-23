@@ -1,7 +1,7 @@
 # 🎁 Event Races
 
-“Special Events” will be organized regularly where rewards will be unique NFTs. These Special Events will have entrance fees; participants will pay Rollium to enter. Rollium collected from these events will be transferred to the Development pool.&#x20;
+“Special Events” will be organized regularly with unique NFTs or way bigger amounts of Rollium as rewards. These Special Events will have entrance fees; participants will have to pay Rollium to enter.
 
-Transactions from the NFT Marketplace will have transaction fees. For every transaction, the system will cut a fee of 5% to transfer to the Development pool.&#x20;
+* Rollium collected from special events with NFT rewards will be transferred to the Development Pool.
+* Rollium collected from special events with Rollium rewards will create a Rollium pool which will be distributed fairly amongst the winners. A small percentage of this pool will be transferred to the Development Pool as well.
 
-To transfer Rollium earned from the Play2Earn system to their wallet, players will pay a certain percentage of their earning as a fee. The Fee percentage will get lower as the amount of Rolium goes up, incentivizing players to spend or hold their tokens in-game.

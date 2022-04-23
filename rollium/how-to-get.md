@@ -1,6 +1,6 @@
 # 💸 How to get
 
-We got a big Liquidity locked for safe and seamless trading between CRO to RLM and vice versa.  Everyone can start trading using CRODEX, one of the biggest Decentralized Exchange in Cronos Network.\
+We have got a big Liquidity locked for safe and seamless trading between CRO and RLM. Everyone can start trading using CRODEX, one of the biggest Decentralized Exchange in Cronos Network.\
 
 
 ![](../.gitbook/assets/tradeRLM.png)
