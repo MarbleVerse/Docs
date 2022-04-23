@@ -22,4 +22,3 @@
 * [🛤 Road Map](road-map.md)
 * [📦 Staking](staking.md)
 * [📧 Contact Us](contact-us.md)
-* [❓ FAQ](faq.md)
