@@ -26,3 +26,7 @@ Track Rollium on CoinMarketCap
 {% embed url="https://www.coingecko.com/en/coins/rollium" %}
 Track Rollium on CoinGecko
 {% endembed %}
+
+{% embed url="https://cronoscan.com/address/0x19258a1df9E929D02b34621CF52797998aE1Aa27" %}
+Rollium Contract
+{% endembed %}
