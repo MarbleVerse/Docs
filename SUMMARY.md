@@ -20,5 +20,4 @@
   * [▶ Free Races](races/free-races.md)
   * [🎁 Event Races](races/event-races.md)
 * [🛤 Road Map](road-map.md)
-* [📦 Staking](staking.md)
 * [📧 Contact Us](contact-us.md)
