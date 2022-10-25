@@ -17,7 +17,7 @@ Rollium will be the currency of the MarbleVerse. All interactions that will requ
 
 ![](<../.gitbook/assets/exchange4 (1).png>)
 
-Our Token has been listed on biggest coin tracking platforms like CoinMarketCap & CoinGecko.
+Our Token has been listed on the biggest coin tracking platforms like CoinMarketCap & CoinGecko.
 
 {% embed url="https://coinmarketcap.com/currencies/marbleverse" %}
 Track Rollium on CoinMarketCap

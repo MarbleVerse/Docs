@@ -1,6 +1,6 @@
 # 💎 Rarity System
 
-Each marble belongs to one of five rarity classes. We guarantee 1 rare drop, in a pack of 10 Marbles mint.
+Each marble belongs to one of five rarity classes. We guarantee 1 rare drop, in a pack of 10 Marbles minted.
 
 | Rarity                                       |                Percent                | Initial Skill Points |
 | -------------------------------------------- | :-----------------------------------: | :------------------: |
@@ -12,4 +12,4 @@ Each marble belongs to one of five rarity classes. We guarantee 1 rare drop, in 
 
 ![Rarity of Marbles](../../.gitbook/assets/rareity5.png)
 
-Marble rarities determine the base & background of the marble. Amount of rings in the crown around the stand increase as rarity goes up; also each rarity rank has their own symbol.
+Marble rarities determine the base & background of the marble. The amount of rings in the crown around the stand increase as the rarity goes up; also each rarity rank has their own symbol.

@@ -1,7 +1,7 @@
 # ⬜ Common
 
 With a number of 12.500 marbles in the category, they are the biggest racing force of the MarbleVerse.\
-Do not get fooled by their name as each marble has the same chance to be victorious on the racing field; so common marbles will win a big portion of the races with their bigger quantity.
+Do not get fooled by their name as each marble has the same chance to be victorious on the racing field; so common marbles will win a big portion of the races due to their bigger quantity.
 
 As each marble gets equal amounts of Skill Level per upgrade, Commons can increase their power level quite fast by leveling up.
 

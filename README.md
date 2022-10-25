@@ -8,7 +8,7 @@ coverY: 0
 
 ## Getting Started
 
-MarbleVerse is a Play-2-Earn game developed on EVM-based blockchain technology, giving Marble NFT holders innovative use cases such as passive income generation by holding their NFTs and enjoying the competitive gameplay while earning.&#x20;
+MarbleVerse is a Play-2-Earn game developed on EVM-based blockchain technology, giving Marble NFT holders innovative use cases such as income generation by acquiring  NFTs and enjoying the competitive gameplay while earning tokens as well.&#x20;
 
 Players holding Marble NFTs will be able to:&#x20;
 

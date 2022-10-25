@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/energylvl.png)
 
-Each marble will have skill points which can be distributed over their stats for a customized gameplay experience. With the ability to change the stats of their Marbles, players will get to play more actively or more idle, according to their personal preference.
+Each marble will have skill points which can be distributed over their stats for a customized gameplay experience. With the ability to change the stats of their Marbles, players will get to play more actively or more idly, according to their personal preference.
 
 Marbles with different rarities will have different amounts of initial skill points at level 1. Each increase in Marble level will give 2 more skill points to be distributed on to the Marble stats.
 
@@ -15,7 +15,7 @@ Skill points will be used to determine the energy regeneration rate & energy cap
 
 
 
-Here's some possible configurations&#x20;
+Here are some possible configurations.&#x20;
 
 | Regen Level | Capacity Level | Regen Per Day | Max Capacity | Fill Duration |
 | :---------: | :------------: | :-----------: | :----------: | :-----------: |

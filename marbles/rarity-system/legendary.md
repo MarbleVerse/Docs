@@ -1,6 +1,6 @@
 # 🟧 Legendary
 
-Only 1% of the Marbles gets the title of "Legendary". These Marbles are the glass beauties standing above all other marbles. With the highest initial skill points, they can participate in races more than any other marble. Having a Legendary Marble in your team will give the strongest boosts to other marbles in the team. You will definitely feel the boost they give to your team, thus your earnings. With the boost they give and with their beauty, Legendary Marbles is what a player in MarbleVerse will aim to have.
+Only 1% of the Marbles gets the title of "Legendary". These Marbles are the glass beauties standing above all other marbles. With the highest initial skill points, they can participate in more races than any other marble. Having a Legendary Marble in your team will give the strongest boosts to other marbles in the team. You will definitely feel the boost they give to your team, thus your earnings. With the boost they give and with their beauty, Legendary Marbles are what players in MarbleVerse will aim to have.
 
 * Total Supply: 200
 * Initial Skill Points: 80
